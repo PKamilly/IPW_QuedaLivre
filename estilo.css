@@ -27,3 +27,10 @@ body {
     top: 100px; 
 }
 
+#botao {
+    background-color: rgb(56, 31, 25);
+}
+
+#botaopause {
+    background-color: rgb(56, 31, 25);
+}
